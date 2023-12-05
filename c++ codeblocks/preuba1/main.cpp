@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int n,f=1;
+
+    cout<<"Ingrese un numero"<<endl;
+    cin>>n;
+
+    for(int i=1;i<=n;1){
+        f=f*i;
+        cout<<f<<",";
+    }
+   return 0;
+}

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695689310 source:c:\users\nad__\desktop\upds\icpc\c++ codeblocks\vjudge_prefix\ejercicio_f\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<algorithm>
+	<map>
+	<unordered_map>
+	<unordered_set>
+	<set>
+
